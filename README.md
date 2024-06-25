@@ -10,3 +10,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
+# Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/indu97/Leets/tree/master/0069-sqrtx) |
+# Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/indu97/Leets/tree/master/0069-sqrtx) |
