@@ -1,11 +1,11 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
         aL, bL = -len(a), -len(b)
-        s = ""
+        res = ""
         carry, i = 0, -1
         while i >= aL or i>= bL:
-            aBit = int(a[i]) if i>= aL else 0
-            bBit = int(b[i]) if i>= bL else 0
+            aBit = int(a[i]) if i >= aL else 0
+            bBit = int(b[i]) if i >= bL else 0
             val = aBit + bBit + carry
             if val == 2:
                 val = 0
@@ -15,6 +15,6 @@ class Solution:
                 carry = 1
             else:
                 carry = 0
-            s = str(val) + s
+            res = str(val) + res
             i -= 1
-        return "1" + s if carry else s
+        return "1" + res if carry else res
