@@ -16,8 +16,6 @@ class Solution:
         i = len(a) - 1
         while i >= 0:
             val = int(a[i]) + int(b[i]) + carry
-            # val = summ % 2
-            # carry = summ // 2
             if val == 2:
                 val = 0
                 carry = 1
