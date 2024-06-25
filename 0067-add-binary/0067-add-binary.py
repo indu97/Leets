@@ -15,9 +15,17 @@ class Solution:
         carry = 0
         i = len(a) - 1
         while i >= 0:
-            summ = int(a[i]) + int(b[i]) + carry
-            val = summ % 2
-            carry = summ // 2
+            val = int(a[i]) + int(b[i]) + carry
+            # val = summ % 2
+            # carry = summ // 2
+            if val == 2:
+                val = 0
+                carry = 1
+            elif val == 3:
+                val = 1
+                carry = 1
+            else:
+                carry = 0
             s = str(val) + s
             i -= 1
 
