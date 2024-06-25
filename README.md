@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Two Pointers
 |  |
 | ------- |
@@ -31,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/indu97/Leets/tree/master/0067-add-binary) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
