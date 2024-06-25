@@ -3,13 +3,13 @@ class Solution:
         m = len(a)
         n = len(b)
 
-        # if len(a) > len(b):
-        while(len(a) > len(b)):
-            b = '0' + b
+        if len(a) > len(b):
+            while(len(a) > len(b)):
+                b = '0' + b
 
-        # if len(b) > len(a):
-        while(len(b) > len(a)):
-            a = '0' + a
+        if len(b) > len(a):
+            while(len(b) > len(a)):
+                a = '0' + a
 
         s = ""
         carry = 0
