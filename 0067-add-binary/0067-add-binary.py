@@ -26,8 +26,4 @@ class Solution:
                 carry = 0
             s = str(val) + s
             i -= 1
-
-        # if carry == 1: 
-        #     s = '1' + s
-        # return s
         return "1" + s if carry else s
