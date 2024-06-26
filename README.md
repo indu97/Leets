@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1137-height-checker](https://github.com/indu97/Leets/tree/master/1137-height-checker) |
 # Two Pointers
 |  |
 | ------- |
@@ -49,3 +50,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/indu97/Leets/tree/master/0387-first-unique-character-in-a-string) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/indu97/Leets/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/indu97/Leets/tree/master/1137-height-checker) |
