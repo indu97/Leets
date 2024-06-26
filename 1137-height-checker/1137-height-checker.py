@@ -1,11 +1,5 @@
+import numpy as np
+from collections import Counter
 class Solution:
-    def heightChecker(self, heights: List[int]) -> int:
-        l=heights.copy()
-        heights.sort()
-        ans=0
-        for i in range(len(l)):
-            if l[i]!=heights[i]:
-                ans+=1
-
-        return ans
-
+    def heightChecker(self, h: List[int]) -> int:
+        return sum(v != u for v,u in zip(h,sorted(h)))
