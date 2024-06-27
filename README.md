@@ -64,4 +64,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/indu97/Leets/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/indu97/Leets/tree/master/0326-power-of-three) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/indu97/Leets/tree/master/0206-reverse-linked-list) |
