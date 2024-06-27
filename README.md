@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/indu97/Leets/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/indu97/Leets/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/indu97/Leets/tree/master/0326-power-of-three) |
 # Binary Search
 |  |
 | ------- |
@@ -60,3 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/indu97/Leets/tree/master/1137-height-checker) |
+# Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/indu97/Leets/tree/master/0326-power-of-three) |
