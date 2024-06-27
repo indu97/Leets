@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indu97/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 # Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indu97/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/indu97/Leets/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/indu97/Leets/tree/master/0387-first-unique-character-in-a-string) |
 # Bit Manipulation
@@ -72,3 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/indu97/Leets/tree/master/0206-reverse-linked-list) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indu97/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
