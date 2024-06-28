@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/indu97/Leets/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/indu97/Leets/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/indu97/Leets/tree/master/0326-power-of-three) |
 # Binary Search
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/indu97/Leets/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Hash Table
@@ -79,3 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indu97/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/indu97/Leets/tree/master/0058-length-of-last-word) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
