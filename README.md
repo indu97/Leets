@@ -85,3 +85,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/indu97/Leets/tree/master/0083-remove-duplicates-from-sorted-list) |
+<!---LeetCode Topics End-->
