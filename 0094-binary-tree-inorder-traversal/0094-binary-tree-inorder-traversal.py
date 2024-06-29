@@ -9,7 +9,6 @@ class Solution:
         self.res = []
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         if root != None:
-            print(root.val)
             if root.left != None:
                 self.inorderTraversal(root.left)
             self.res.append(root.val)
