@@ -114,4 +114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/indu97/Leets/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
