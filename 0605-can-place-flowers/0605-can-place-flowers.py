@@ -6,18 +6,13 @@ class Solution:
                 if not prev and not val and not flowerbed[idx+1]:
                     n = n - 1
                     val = 1
-                    prev = val
-                else: 
-                    prev = val
+                prev = val
             else:
                 if not prev and not val:
                     n = n - 1
                     val = 1
-                    prev = val
-                else: 
-                    prev = val
-        if n <= 0:
-            return True
+                prev = val
+        return n <= 0
 
 
         
