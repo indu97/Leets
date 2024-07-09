@@ -4,12 +4,12 @@ class Solution:
         for idx, val in enumerate(flowerbed):
             if idx != len(flowerbed) - 1:
                 if not prev and not val and not flowerbed[idx+1]:
-                    n = n - 1
+                    n -= 1
                     val = 1
                 prev = val
             else:
                 if not prev and not val:
-                    n = n - 1
+                    n -= 1
                     val = 1
                 prev = val
         return n <= 0
