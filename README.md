@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
+| [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/indu97/Leets/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
