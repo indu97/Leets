@@ -1,10 +1,10 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        vow = {'a','e','i','o','u','A','E','I','O','U'}
+        vow = {'a','e','i','o','u'}
         keys = []
         idxs = []
         for idx, val in enumerate(s):
-            if val in vow:
+            if val.lower() in vow:
                 keys.append(val)
                 idxs.append(idx)
         i = 0
