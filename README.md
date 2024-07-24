@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
+| [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/indu97/Leets/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -141,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/indu97/Leets/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
