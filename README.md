@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/indu97/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/indu97/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
