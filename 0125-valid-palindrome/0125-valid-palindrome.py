@@ -7,6 +7,5 @@ class Solution:
         n = len(new_s)
         for i in range(n):
             if new_s[i] != new_s[-i-1]:
-                print(i)
                 return False
         return True
