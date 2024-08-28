@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/indu97/Leets/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
 | [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/indu97/Leets/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -162,9 +163,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
