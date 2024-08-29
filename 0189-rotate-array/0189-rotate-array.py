@@ -13,7 +13,6 @@ class Solution:
         #         nums[j] = nums[-1]
         #         nums[-1] = temp
         a = nums[:n-k]
-        print(a)
         for i in range(k):
             nums[i] = nums[n-k+i]
         for i in range(n-k):
