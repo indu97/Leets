@@ -5,12 +5,10 @@ class Solution:
         candidate = prices [0]
         for price in prices:
             if price < candidate:
-                # global_profit = global_profit + local_profit
                 local_profit = 0
                 candidate = price
             else:
                 if local_profit > price - candidate:
-                    # global_profit += local_profit
                     local_profit = 0
                     candidate = price
                 else:
