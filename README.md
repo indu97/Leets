@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/indu97/Leets/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
