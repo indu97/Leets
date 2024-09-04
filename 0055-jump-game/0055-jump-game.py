@@ -17,10 +17,22 @@ class Solution:
     #     return canJumpBool
 
     def canJump(self, nums: List[int]) -> bool:
-        n = len(nums)
-        goal = n - 1
-        for i in range(n - 2, -1, -1):
-            if i + nums[i] >= goal:
-                goal = i
+        # n = len(nums)
+        # goal = n - 1
+        # for i in range(n - 2, -1, -1):
+        #     if i + nums[i] >= goal:
+        #         goal = i
         
-        return True if goal == 0 else False
+        # return True if goal == 0 else False
+        
+        n = len(nums)
+        reachable = 0
+        for i in range(len(nums)):
+            if i > reachable:
+                return False
+
+            if i + nums[i] > reachable:
+                reachable = i + nums[i]
+        
+        if reachable >= n - 1:
+            return True
