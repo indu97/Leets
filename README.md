@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/indu97/Leets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/indu97/Leets/tree/master/0198-house-robber) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/indu97/Leets/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Greedy
@@ -182,11 +184,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indu97/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/indu97/Leets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/indu97/Leets/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/indu97/Leets/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -205,4 +209,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
