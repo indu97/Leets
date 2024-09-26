@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/indu97/Leets/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 ## Memoization
@@ -223,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/indu97/Leets/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
