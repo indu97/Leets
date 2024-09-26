@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/indu97/Leets/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/indu97/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/indu97/Leets/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/indu97/Leets/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/indu97/Leets/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/indu97/Leets/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -228,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/indu97/Leets/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/indu97/Leets/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
