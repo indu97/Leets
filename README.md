@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/indu97/Leets/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/indu97/Leets/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/indu97/Leets/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/indu97/Leets/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/indu97/Leets/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
