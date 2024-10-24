@@ -7,4 +7,7 @@ class Solution:
                 dictionary[key].append(strs[i])
             else:
                 dictionary[key] = [strs[i]]
-        return dictionary.values()
+        res = []
+        for anagram in dictionary.values():
+            res.append(anagram)
+        return res
