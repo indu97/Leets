@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/indu97/Leets/tree/master/0680-valid-palindrome-ii) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/indu97/Leets/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Greedy
 |  |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/indu97/Leets/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/indu97/Leets/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/indu97/Leets/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/indu97/Leets/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
 | ------- |
