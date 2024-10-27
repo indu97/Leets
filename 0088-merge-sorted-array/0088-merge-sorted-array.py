@@ -36,7 +36,6 @@ class Solution:
         i, j = m - 1, n - 1 
         write_ptr = m + n - 1
         while(j >= 0 and i >=0):
-            print(write_ptr)
             if nums1[i] <= nums2[j]:
                 nums1[write_ptr] = nums2[j]
                 j -= 1
