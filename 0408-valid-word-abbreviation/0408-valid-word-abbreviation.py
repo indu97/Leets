@@ -9,22 +9,22 @@ class Solution:
                 # If leading zero, return False
                 if abbr[abbr_i] == '0':
                     return False
-                else:
-                    # If c is numeric, get the whole number
-                    num = ''
-                    for i in range(abbr_i, n):
-                        if abbr[i].isnumeric():
-                            num = num + abbr[i]
-                        else:
-                            break
-                        abbr_i += 1
+                # If c is numeric, get the whole number
+                num = ''
+                for i in range(abbr_i, n):
+                    if abbr[i].isnumeric():
+                        num = num + abbr[i]
+                    else:
+                        break
+                    abbr_i += 1
 
-                    # Advance the word ptr by num indices
-                    word_i += int(num)
+                # Advance the word ptr by num indices
+                word_i += int(num)
 
-                    # If word_i > end of word
-                    if word_i > m:
-                        return False
+                # # If word_i > end of word
+                # if word_i > m:
+                #     return False
+
             
             # If c is an alphabet
             elif abbr[abbr_i].isalpha():
