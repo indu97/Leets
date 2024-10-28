@@ -2,7 +2,6 @@ import math
 
 class Solution:
     def pal_check(self, s: str, start, end, counter):
-        print(s[start:end+1])
         n = end - start + 1
         for i in range(n // 2):
             if s[start + i] != s[end - i]:
