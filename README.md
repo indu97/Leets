@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/indu97/Leets/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/indu97/Leets/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/indu97/Leets/tree/master/0226-invert-binary-tree) |
+| [0339-nested-list-weight-sum](https://github.com/indu97/Leets/tree/master/0339-nested-list-weight-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/indu97/Leets/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/indu97/Leets/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/indu97/Leets/tree/master/0226-invert-binary-tree) |
+| [0339-nested-list-weight-sum](https://github.com/indu97/Leets/tree/master/0339-nested-list-weight-sum) |
 ## Array
 |  |
 | ------- |
