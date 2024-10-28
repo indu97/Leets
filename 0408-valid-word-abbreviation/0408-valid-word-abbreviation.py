@@ -35,8 +35,5 @@ class Solution:
                     abbr_i += 1
 
         # If not end of word or abbr, return False
-        if not (word_i == m and abbr_i == n):
-            return False
-        else:
-            return True
+        return word_i == m and abbr_i == n
 
