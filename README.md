@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/indu97/Leets/tree/master/0094-binary-tree-inorder-traversal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/indu97/Leets/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/indu97/Leets/tree/master/0680-valid-palindrome-ii) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/indu97/Leets/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/indu97/Leets/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Greedy
 |  |
