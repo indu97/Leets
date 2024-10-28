@@ -45,10 +45,10 @@ class Solution:
     def calculate(self, nestedValue: NestedInteger, currDepth) -> int:
         if nestedValue.isInteger():
             return currDepth * nestedValue.getInteger()
-        else:
-            res = 0
-            for val in nestedValue.getList():
-                res += self.calculate(val, currDepth + 1)
+
+        res = 0
+        for val in nestedValue.getList():
+            res += self.calculate(val, currDepth + 1)
         return res
 
     def depthSum(self, nestedList: List[NestedInteger]) -> int:
