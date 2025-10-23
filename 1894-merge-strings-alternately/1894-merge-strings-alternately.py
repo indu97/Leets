@@ -6,7 +6,13 @@ class Solution:
         for i in range(max(m,n)):
             if (i < m):
                 out += word1[i]
+            else:
+                out += word2[i:]
+                break
             if (i < n):
                 out += word2[i]
+            else:
+                out += word1[i+1:]
+                break
         return out
         
