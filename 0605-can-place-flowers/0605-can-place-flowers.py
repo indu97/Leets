@@ -7,10 +7,8 @@ class Solution:
             if bed[i-1] == bed[i] == bed[i+1] == 0:
                 n -= 1
                 bed[i] = 1
-
-        if n > 0:
-            return False
-        else:
-            return True
+                if n == 0 : 
+                    return True
+        return n <= 0
 
             
