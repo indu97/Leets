@@ -1,18 +1,36 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
-        prev = 0
-        for idx, val in enumerate(flowerbed):
-            if idx != len(flowerbed) - 1:
-                if not prev and not val and not flowerbed[idx+1]:
-                    n -= 1
-                    val = 1
-                prev = val
-            else:
-                if not prev and not val:
-                    n -= 1
-                    val = 1
-                prev = val
-        return n <= 0
+        l = len(flowerbed)
+        flag = 0
 
+        for i in range(l):
 
-        
+            if n > 0:
+                # Check if Left side is empty
+                if i!= 0:
+                    if flowerbed[i-1] != 1 and flag!= 1:
+                        flag = 0
+                    else:
+                        flag = 1
+
+                #  Check if Right side is empty:
+                if i!= l-1:
+                    if flowerbed[i+1] != 1 and flag != 1:
+                        flag = 0
+                    else:
+                        flag = 1
+
+                if flag == 0 and flowerbed[i] == 0:   
+                    n -= 1
+                    flowerbed[i] = 1
+                    flag = 1
+                else:
+                    flag = 0
+            else: 
+                return True
+
+        print(flowerbed) 
+        print(n)
+        return False if n > 0 else True
+
+            
