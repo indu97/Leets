@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/indu97/Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/indu97/Leets/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/indu97/Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/indu97/Leets/tree/master/0408-valid-word-abbreviation) |
