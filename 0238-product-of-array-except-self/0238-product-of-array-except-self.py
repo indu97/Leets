@@ -1,6 +1,10 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
+        z = nums.count(0)
         n = len(nums)
+        if z > 1:
+            return [0] * n
+        
         out = [1] * n
 
         for i in range(1, n):
