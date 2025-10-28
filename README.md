@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/indu97/Leets/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/indu97/Leets/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
 | [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/indu97/Leets/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -266,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/indu97/Leets/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/indu97/Leets/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
