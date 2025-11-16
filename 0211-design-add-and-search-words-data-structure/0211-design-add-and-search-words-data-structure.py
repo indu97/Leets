@@ -15,25 +15,27 @@ class WordDictionary:
             curr = curr.children[c]
         curr.is_word = True
 
-    def search_helper(self, w: list, curr) -> bool:
+    def search_helper(self, w: str, i: int, curr) -> bool:
         n = len(w)
-        for i in range(n):
-            c = w[i]
-            if c != ".":
-                if not c in curr.children:
-                    return False
-                curr = curr.children[c]
-            else: 
-                out = False
-                for key in curr.children:
-                    if self.search_helper(w[i+1:], curr.children[key]): 
-                        return True
-                return out
+        if i == n:
+            return curr.is_word
+
+        c = w[i]
+
+        if c != ".":
+            if not c in curr.children:
+                return False
+            return self.search_helper(w, i+1, curr.children[c])
+        else: 
+            for key in curr.children:
+                if self.search_helper(w, i+1, curr.children[key]): 
+                    return True
+            return False
+
         return curr.is_word
 
     def search(self, word: str) -> bool:
-        w = list(word)
-        return self.search_helper(w, self.root)
+        return self.search_helper(word, 0, self.root)
 
 
 # Your WordDictionary object will be instantiated and called as such:
