@@ -28,7 +28,6 @@ class WordDictionary:
                 for key in curr.children:
                     if self.search_helper(w[i+1:], curr.children[key]): 
                         return True
-                    out = out or self.search_helper(w[i+1:], curr.children[key])
                 return out
         return curr.is_word
 
