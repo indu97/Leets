@@ -10,7 +10,7 @@ class Solution:
             return total
 
         seen = set()
-        s = sumOfSquares(n)
+        s = n
         while(s not in seen):
             if s == 1:
                 return True
