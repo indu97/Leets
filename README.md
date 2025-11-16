@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/indu97/Leets/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/indu97/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/indu97/Leets/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/indu97/Leets/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/indu97/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/indu97/Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/indu97/Leets/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/indu97/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
