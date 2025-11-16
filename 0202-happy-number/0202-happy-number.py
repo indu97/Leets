@@ -9,10 +9,14 @@ class Solution:
                 total += r*r
             return total
 
-        seen = set()
-        while(n not in seen):
-            if n == 1:
-                return True
-            seen.add(n)
-            n = sumOfSquares(n)
-        return False
+        slow = sumOfSquares(n)
+        fast = sumOfSquares(slow)
+
+        while(slow != fast):
+            slow = sumOfSquares(slow)
+            fast = sumOfSquares(sumOfSquares(fast))
+        
+        if slow == 1:
+            return True
+        else: 
+            return False
