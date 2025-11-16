@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/indu97/Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/indu97/Leets/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/indu97/Leets/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/indu97/Leets/tree/master/0680-valid-palindrome-ii) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/indu97/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/indu97/Leets/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/indu97/Leets/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/indu97/Leets/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/indu97/Leets/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Memoization
 |  |
