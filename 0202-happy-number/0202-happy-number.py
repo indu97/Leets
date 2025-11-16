@@ -10,11 +10,9 @@ class Solution:
             return total
 
         seen = set()
-        while(True):
+        while(n not in seen):
             if n == 1:
                 return True
-            if n in seen:
-                return False
             seen.add(n)
             n = sumOfSquares(n)
         return False
