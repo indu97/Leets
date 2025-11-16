@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/indu97/Leets/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/indu97/Leets/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/indu97/Leets/tree/master/0112-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/indu97/Leets/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/indu97/Leets/tree/master/0226-invert-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/indu97/Leets/tree/master/0339-nested-list-weight-sum) |
 ## Binary Tree
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/indu97/Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/indu97/Leets/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/indu97/Leets/tree/master/0345-reverse-vowels-of-a-string) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/indu97/Leets/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -283,4 +286,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/indu97/Leets/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
