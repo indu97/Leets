@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/indu97/Leets/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/indu97/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/indu97/Leets/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/indu97/Leets/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/indu97/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indu97/Leets/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/indu97/Leets/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/indu97/Leets/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
@@ -293,6 +295,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/indu97/Leets/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/indu97/Leets/tree/master/0211-design-add-and-search-words-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/indu97/Leets/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
