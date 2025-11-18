@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/indu97/Leets/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/indu97/Leets/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
+| [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/indu97/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/indu97/Leets/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
+| [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -302,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/indu97/Leets/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
