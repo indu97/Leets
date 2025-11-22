@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/indu97/Leets/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/indu97/Leets/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/indu97/Leets/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/indu97/Leets/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/indu97/Leets/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/indu97/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/indu97/Leets/tree/master/1333-sort-the-jumbled-numbers) |
 ## Dynamic Programming
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/indu97/Leets/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu97/Leets/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
 | [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
@@ -273,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/indu97/Leets/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/indu97/Leets/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/indu97/Leets/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/indu97/Leets/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Memoization
 |  |
@@ -311,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
