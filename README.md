@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/indu97/Leets/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/indu97/Leets/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/indu97/Leets/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/indu97/Leets/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/indu97/Leets/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/indu97/Leets/tree/master/0118-pascals-triangle) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/indu97/Leets/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/indu97/Leets/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/indu97/Leets/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/indu97/Leets/tree/master/0242-valid-anagram) |
