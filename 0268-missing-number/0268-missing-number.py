@@ -1,15 +1,18 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        nums.sort()
-        n = len(nums)
-        prev = 0
-        if 0 not in nums:
-            return 0
-        elif n not in nums:
-            return n
-        else:
-            for num in nums:
-                if num != 0 :
-                    if num - prev != 1:
-                        return num - 1
-                    prev = num
+        start = 0
+        while(start < len(nums)):
+            num = nums[start]
+            if (num < len(nums) and num!= start):
+                # swap
+                nums[start], nums[num] = nums[num], nums[start]
+            else:
+                start += 1
+
+        i = 0
+        while( i < len(nums)):
+            if nums[i] != i:
+                return i
+            i += 1
+
+        return len(nums)
