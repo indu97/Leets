@@ -19,13 +19,11 @@ class Solution:
         # More than 2 nodes
         p = head
         c = p.next
-        n = c.next
         head.next = None
         while(c is not None):
+            n = c.next
             c.next = p
             p = c
             c = n
-            n = n.next if n else None
 
-        head = p
-        return head
+        return p
