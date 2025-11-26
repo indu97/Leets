@@ -9,12 +9,12 @@ class Solution:
         if not head or not head.next:
             return head
         
-        # 2 nodes
-        if not head.next.next:
-            head.next.next = head
-            head = head.next
-            head.next.next = None
-            return head
+        # # 2 nodes
+        # if not head.next.next:
+        #     head.next.next = head
+        #     head = head.next
+        #     head.next.next = None
+        #     return head
 
         # More than 2 nodes
         p = head
