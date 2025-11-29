@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/indu97/Leets/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/indu97/Leets/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/indu97/Leets/tree/master/0496-next-greater-element-i) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/indu97/Leets/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/indu97/Leets/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/indu97/Leets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/indu97/Leets/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/indu97/Leets/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/indu97/Leets/tree/master/1019-squares-of-a-sorted-array) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/indu97/Leets/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/indu97/Leets/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/indu97/Leets/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/indu97/Leets/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -329,4 +332,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/indu97/Leets/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/indu97/Leets/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
