@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/indu97/Leets/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/indu97/Leets/tree/master/0094-binary-tree-inorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/indu97/Leets/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/indu97/Leets/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/indu97/Leets/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/indu97/Leets/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/indu97/Leets/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/indu97/Leets/tree/master/0139-word-break) |
